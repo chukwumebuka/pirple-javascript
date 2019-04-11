@@ -1,5 +1,5 @@
 /**
- * This file is a javascript file that contains my favourite song, how i used Number,
+ * This file is a javascript file that contains my favourite song and it characteristics, how i used Number,
  * String, Boolean, objects and arrays to work on them
  */
 var song = "All of me";
